@@ -2,6 +2,8 @@
 
 A real-time currency conversion web application developed using HTML, CSS, and JavaScript. The application retrieves live exchange rates through an external currency API and dynamically converts values between different currencies.
 
+### 🚀 [Live Demo](https://furqhan24.github.io/currency-converter/) | 📂 [Source Code](https://github.com/furqhan24/currency-converter)
+
 ## Features
 
 * Real-time currency conversion
